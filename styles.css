@@ -71,3 +71,9 @@ p {
 
 }
 
+.link-header:hover {
+    transition: 0.5s ease-in-out;
+    font-size: 15px;
+    color: #6FBF44
+
+}
