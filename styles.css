@@ -20,8 +20,8 @@ header {
 }
 
 .button-header {
-    width: 124px;
-    height: 51px;
+    width: 125px;
+    height: 50px;
     border-radius: 6px;
     border: 1px solid #4CB538;
     background: #6FBF44;
@@ -76,4 +76,16 @@ p {
     font-size: 15px;
     color: #6FBF44
 
+}
+
+.link-main:hover {
+    transition: 0.6s ease-out;
+    font-size: 19px;
+    color: #090E17
+}
+
+.button-header:hover {
+    transition: 0.3s ease-in-out;
+    width: 128px;
+    height: 53px;
 }
